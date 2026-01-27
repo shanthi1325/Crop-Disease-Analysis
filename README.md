@@ -4,9 +4,7 @@
 
 **Project Name:** AI-Driven Crop Disease Prediction and Management System  
 **Track:** Agriculture, FoodTech & Rural Development  
-**Submitted for:** Smart India Hackathon (SIH) 2024  
-**Sponsored by:** Indian Council of Agricultural Research (ICAR)  
-**Ministry:** Ministry of Agriculture and Farmers Welfare
+
 
 ---
 
@@ -57,8 +55,7 @@ The project focuses on building a **mobile and web-based application** that uses
 ### Steps:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Soumya-Chakraborty/SIH2024.git
-   cd SIH2024
+   git clone https://github.com/Soumya-Chakraborty/SIH2024.git](https://github.com/shanthi1325/Crop-Disease-Analysis
    ```
 
 2. **Install frontend dependencies:**
