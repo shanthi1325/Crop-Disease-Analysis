@@ -55,7 +55,7 @@ The project focuses on building a **mobile and web-based application** that uses
 ### Steps:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Soumya-Chakraborty/SIH2024.git](https://github.com/shanthi1325/Crop-Disease-Analysis
+   git clone https://github.com/shanthi1325/Crop-Disease-Analysis
    ```
 
 2. **Install frontend dependencies:**
