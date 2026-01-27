@@ -1,4 +1,4 @@
-# SIH1638 - AI-Driven Crop Disease Prediction and Management System
+# AI-Driven Crop Disease Prediction and Management System
 
 ## Overview
 
