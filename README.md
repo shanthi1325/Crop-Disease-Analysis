@@ -110,5 +110,13 @@ The project focuses on building a **mobile and web-based application** that uses
 5. Open a pull request.
 
 ---
+## Backend Repository
+
+The backend code for this project is hosted in a separate GitHub repository.
+
+🔗 Backend Repository Link:  
+https://github.com/shanthi1325/Crop-Disease-Analysis-backend
+
+Please refer to the backend repository README for setup and run instructions.
 
 
