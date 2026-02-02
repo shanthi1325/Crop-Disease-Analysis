@@ -3,9 +3,9 @@
 ### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/shanthi1325/Crop-Disease-Analysis
-```
-cd Backend
 
+cd Backend
+ ```
 
 ### 2️⃣ Create Virtual Environment :
 
@@ -57,8 +57,10 @@ GET	/api/data	Sample API
 POST	/submit	Receive frontend data
 
 
-🧪 Testing
+🧪 Testing :
+```bash
 Open browser: http://127.0.0.1:8000
+```
 
 
 
