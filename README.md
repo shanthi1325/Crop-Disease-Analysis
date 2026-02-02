@@ -60,18 +60,12 @@ The project focuses on building a **mobile and web-based application** that uses
 
 2. **Install frontend dependencies:**
    ```bash
-   cd client
+   cd frontend
    npm install
    ```
-
-3. **Install backend dependencies:**
+4. **Set up the Python environment in backend :**
    ```bash
-   cd server
-   npm install
-   ```
-
-4. **Set up the Python environment:**
-   ```bash
+   cd backend 
    python -m venv venv
    source venv/bin/activate   # For Windows: venv\Scripts\activate
    pip install -r requirements.txt
@@ -80,14 +74,14 @@ The project focuses on building a **mobile and web-based application** that uses
 5. **Run the application:**
    - Backend:
      ```bash
-     cd server
-     npm start
+     cd backend
+     python run.py
      ```
 
    - Frontend (Web):
      ```bash
-     cd client
-     npm start
+     cd frontend
+     npm run dev
      ```
 
 ---
