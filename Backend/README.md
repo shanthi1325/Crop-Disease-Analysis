@@ -1,9 +1,9 @@
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone Repository
-```bash
 git clone https://github.com/shanthi1325/Crop-Disease-Analysis
 cd Backend
+
 2️⃣ Create Virtual Environment
 python -m venv venv
 3️⃣ Activate Virtual Environment
@@ -26,3 +26,4 @@ GET	/api/data	Sample API
 POST	/submit	Receive frontend data
 🧪 Testing
 Open browser: http://127.0.0.1:8000
+
