@@ -3,18 +3,17 @@
 ### 1️⃣ Clone Repository
 git clone https://github.com/shanthi1325/Crop-Disease-Analysis
 cd Backend
-
-2️⃣ Create Virtual Environment
+##2️⃣ Create Virtual Environment
 python -m venv venv
-3️⃣ Activate Virtual Environment
+##3️⃣ Activate Virtual Environment
 Windows
-
 .\venv\Scripts\activate
+
 Linux / macOS
 source venv/bin/activate
-4️⃣ Install Dependencies
+##4️⃣ Install Dependencies
 pip install -r requirements.txt
-5️⃣ Run Backend Server
+##5️⃣ Run Backend Server
 python run.py
 Server will run at:
 
@@ -26,4 +25,5 @@ GET	/api/data	Sample API
 POST	/submit	Receive frontend data
 🧪 Testing
 Open browser: http://127.0.0.1:8000
+
 
