@@ -1,6 +1,7 @@
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone Repository
+
 git clone https://github.com/shanthi1325/Crop-Disease-Analysis
 
 cd Backend
@@ -56,6 +57,7 @@ POST	/submit	Receive frontend data
 
 🧪 Testing
 Open browser: http://127.0.0.1:8000
+
 
 
 
